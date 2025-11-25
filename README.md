@@ -6,7 +6,7 @@
     <title>MINH CHÂU</title>
     <style>
       body {
-        background-image: url('minhchau.png');
+        background-image: url('minhchau.jpg');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
